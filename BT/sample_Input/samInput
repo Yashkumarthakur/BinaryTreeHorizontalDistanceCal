@@ -1,0 +1,78 @@
+Binary Tree Test
+
+
+Binary Tree Operations
+
+1. insert 
+2. check distance of nodes 
+ 
+1
+Enter integer element to insert : 
+
+9
+Inserted as root node : 9
+Type 'y' to exit OR continue to enter numbers 
+
+7
+Inserted 7 to left of Node 9
+Type 'y' to exit OR continue to enter numbers 
+
+15
+Inserted 15 to right of Node 9
+Type 'y' to exit OR continue to enter numbers 
+
+5
+Inserted 5 to left of Node 7
+Type 'y' to exit OR continue to enter numbers 
+
+8
+Inserted 8 to right of Node 7
+Type 'y' to exit OR continue to enter numbers 
+
+10
+Inserted 10 to left of Node 15
+Type 'y' to exit OR continue to enter numbers 
+
+20
+Inserted 20 to right of Node 15
+Type 'y' to exit OR continue to enter numbers 
+
+1
+Inserted 1 to left of Node 5
+Type 'y' to exit OR continue to enter numbers 
+
+12
+Inserted 12 to right of Node 10
+Type 'y' to exit OR continue to enter numbers 
+
+25
+Inserted 25 to right of Node 20
+Type 'y' to exit OR continue to enter numbers 
+
+y
+
+
+Do you want to continue (Type y or n) 
+
+
+Binary Tree Operations
+
+1. insert 
+2. check distance of nodes 
+ 
+2
+Choose from 1 to 4, level to calculate distance of 2 nodes : 
+
+4
+1  12  25  
+Enter first node
+1
+
+Enter second node
+25
+1  12  25  Distance is :6
+Distance :6
+
+
+Do you want to continue (Type y or n) 
+
